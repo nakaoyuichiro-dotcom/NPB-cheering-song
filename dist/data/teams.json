@@ -1,0 +1,110 @@
+[
+    {
+    "id": "yakult",
+    "name": "東京ヤクルトスワローズ",
+    "shortName": "ヤクルト",
+    "league": "central",
+    "logo": "/assets/logos/yakult.png",
+    "sortOrder": 1,
+    "monogram": "Ys"
+  },
+  {
+    "id": "giants",
+    "name": "読売ジャイアンツ",
+    "shortName": "巨人",
+    "league": "central",
+    "logo": "/assets/logos/giants.png",
+    "sortOrder": 2,
+    "monogram": "G"
+  },
+  {
+    "id": "tigers",
+    "name": "阪神タイガース",
+    "shortName": "阪神",
+    "league": "central",
+    "logo": "/assets/logos/tigers.png",
+    "sortOrder": 3,
+    "monogram": "T"
+  },
+  {
+    "id": "baystars",
+    "name": "横浜DeNAベイスターズ",
+    "shortName": "DeNA",
+    "league": "central",
+    "logo": "/assets/logos/baystars.png",
+    "sortOrder": 4,
+    "monogram": "B"
+  },
+  {
+    "id": "carp",
+    "name": "広島東洋カープ",
+    "shortName": "カープ",
+    "league": "central",
+    "logo": "/assets/logos/carp.png",
+    "sortOrder": 5,
+    "monogram": "C"
+  },
+  {
+    "id": "dragons",
+    "name": "中日ドラゴンズ",
+    "shortName": "中日",
+    "league": "central",
+    "logo": "/assets/logos/dragons.png",
+    "sortOrder": 6,
+    "monogram": "D"
+  },
+  {
+    "id": "hawks",
+    "name": "福岡ソフトバンクホークス",
+    "shortName": "ソフトバンク",
+    "league": "pacific",
+    "logo": "/assets/logos/hawks.png",
+    "sortOrder": 7,
+    "monogram": "H"
+  },
+  {
+    "id": "fighters",
+    "name": "北海道日本ハムファイターズ",
+    "shortName": "日本ハム",
+    "league": "pacific",
+    "logo": "/assets/logos/fighters.png",
+    "sortOrder": 8,
+    "monogram": "F"
+  },
+  {
+    "id": "buffaloes",
+    "name": "オリックス・バファローズ",
+    "shortName": "オリックス",
+    "league": "pacific",
+    "logo": "/assets/logos/buffaloes.png",
+    "sortOrder": 9,
+    "monogram": "Bs"
+  },
+  {
+    "id": "eagles",
+    "name": "東北楽天ゴールデンイーグルス",
+    "shortName": "楽天",
+    "league": "pacific",
+    "logo": "/assets/logos/eagles.png",
+    "sortOrder": 10,
+    "monogram": "E"
+  },
+  {
+    "id": "lions",
+    "name": "埼玉西武ライオンズ",
+    "shortName": "西武",
+    "league": "pacific",
+    "logo": "/assets/logos/lions.png",
+    "sortOrder": 11,
+    "monogram": "L"
+  },
+  {
+    "id": "marines",
+    "name": "千葉ロッテマリーンズ",
+    "shortName": "ロッテ",
+    "league": "pacific",
+    "logo": "/assets/logos/marines.png",
+    "sortOrder": 12,
+    "monogram": "M"
+  }
+]

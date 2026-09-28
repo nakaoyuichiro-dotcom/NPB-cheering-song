@@ -1,0 +1,293 @@
+[
+{
+  "id": "hawks-kawase-hikaru-2026",
+  "teamId": "hawks",
+  "playerName": "川瀬 晃",
+  "number": "0",
+  "lyrics": "風の如く駆け抜け グラブ捌き魅せるぜ\n快音を響かせ バットも魅せるぜ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-kondoh-kensuke-2026",
+  "teamId": "hawks",
+  "playerName": "近藤 健介",
+  "number": "3",
+  "lyrics": "極めた技で 打球が冴え渡る\n遥か夢追い求めて 頂へと進め",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-downs-jeter-2026",
+  "teamId": "hawks",
+  "playerName": "ジーター",
+  "number": "4",
+  "lyrics": "ラララ…ジーター\n君の出番だ オオオ…掴めVictory",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-yamakawa-hotaka-2026",
+  "teamId": "hawks",
+  "playerName": "山川 穂高",
+  "number": "5",
+  "lyrics": "鮮烈な一打を 放てスタンドの彼方へ\n一振りで決めるぞ 高く遠く飛ばせ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-imamiya-kenta-2026",
+  "teamId": "hawks",
+  "playerName": "今宮 健太",
+  "number": "6",
+  "lyrics": "生まれ持つセンス 風を切り走れ\n空高く飛ばせ 柔らかなリストで",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-nakamura-akira-2026",
+  "teamId": "hawks",
+  "playerName": "中村 晃",
+  "number": "7",
+  "lyrics": "新たな扉を 今から開け\n愛する男さ 中村晃",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-makihara-taisei-2026",
+  "teamId": "hawks",
+  "playerName": "牧原 大成",
+  "number": "8",
+  "lyrics": "みなぎるそのエナジー 轟け地の果てまで\n縦横無尽に駆け抜け 男になれ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-yanagita-yuki-2026",
+  "teamId": "hawks",
+  "playerName": "柳田 悠岐",
+  "number": "9",
+  "lyrics": "光のような足と 突き刺すようなスロー\nいざ一振り決めて 輝け柳田",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-uwasawa-naoyuki-2026",
+  "teamId": "hawks",
+  "playerName": "上沢 直之",
+  "number": "10",
+  "lyrics": "我らが待ち望む 勝利を手にする為\n多彩な持ち球を 繰り出せ上沢",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-tsumori-yuki-2026",
+  "teamId": "hawks",
+  "playerName": "津森 宥紀",
+  "number": "11",
+  "lyrics": "男勝負の時だ 思い切り投げ込め\n気迫あふれる闘志で 勝利へ導け",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-minei-hiroki-2026",
+  "teamId": "hawks",
+  "playerName": "嶺井 博希",
+  "number": "12",
+  "lyrics": "高み目指す男よ 立ち上がれさぁ\n嶺井博希今こそ 強く闘え",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-higashihama-nao-2026",
+  "teamId": "hawks",
+  "playerName": "東浜 巨",
+  "number": "16",
+  "lyrics": "立ち向かえよ 勝利の為\nこの地に今輝いて 高み目指せ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-otsu-ryosuke-2026",
+  "teamId": "hawks",
+  "playerName": "大津 亮介",
+  "number": "19",
+  "lyrics": "制球乱れなく 緩急手繰る腕\n青き翼を広げ羽ばたけ 魅せろ多彩な魔球",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-shuto-ukyo-2026",
+  "teamId": "hawks",
+  "playerName": "周東 佑京",
+  "number": "23",
+  "lyrics": "たゆまぬ努力で さぁ時代を築け\n志ひとつに 行けスピードソルジャー",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-kurihara-ryoya-2026",
+  "teamId": "hawks",
+  "playerName": "栗原 陵矢",
+  "number": "24",
+  "lyrics": "輝く時だ 後世に語り継がれる\n伝説を今から 作れよ栗原",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-masaki-tomoya-2026",
+  "teamId": "hawks",
+  "playerName": "正木 智也",
+  "number": "31",
+  "lyrics": "狙い研ぎ澄まし 殊勲の一打を\n高らかに放て 正木の一振りで",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-yanagimachi-tatsu-2026",
+  "teamId": "hawks",
+  "playerName": "柳町 達",
+  "number": "32",
+  "lyrics": "熾烈な争いを 勝ち上がる為\n闘う男の一振り 華麗に打ち捌け",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-ogata-shuto-2026",
+  "teamId": "hawks",
+  "playerName": "尾形 崇斗",
+  "number": "39",
+  "lyrics": "夢を賭けた マウンドで\n尾形崇斗よ 今見せてやれ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-sugiyama-kazuki-2026",
+  "teamId": "hawks",
+  "playerName": "杉山 一樹",
+  "number": "40",
+  "lyrics": "高い位置から 速いボールで\n敵を追い込み 勝利を掴め",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-tanigawara-kenta-2026",
+  "teamId": "hawks",
+  "playerName": "谷川原 健太",
+  "number": "45",
+  "lyrics": "鋭い打球飛ばし 鋭い肩で魅せろ\n今こそ本当決めろよ さあ谷川原行け",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-ozeki-tomohisa-2026",
+  "teamId": "hawks",
+  "playerName": "大関 友久",
+  "number": "47",
+  "lyrics": "ほとばしる汗の中 歓声を胸に秘め\n男なら今ここで 勝つんだ大関",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-fujii-koya-2026",
+  "teamId": "hawks",
+  "playerName": "藤井 皓哉",
+  "number": "48",
+  "lyrics": "辛い時を乗り超えて 来たぞ夢の舞台\n心ひとつに腕を振り抜き 勝利へ導けよ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-matsumoto-haru-2026",
+  "teamId": "hawks",
+  "playerName": "松本 晴",
+  "number": "49",
+  "lyrics": "鍛えたその腕を 自信持って振り抜き\n揺るがぬ覚悟胸に 松本晴輝け",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-oyama-ryo-2026",
+  "teamId": "hawks",
+  "playerName": "大山 凌",
+  "number": "53",
+  "lyrics": "魂込めて ボールを投げ込め\n果敢に攻めて 勝利へ導け",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-ogata-michitsugu-2026",
+  "teamId": "hawks",
+  "playerName": "緒方 理貢",
+  "number": "57",
+  "lyrics": "夢追いかけ 打て魂乗せ\n行けダイヤモンド駆け抜け 今緒方魅せろよ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-umino-ryuji-2026",
+  "teamId": "hawks",
+  "playerName": "海野 隆司",
+  "number": "62",
+  "lyrics": "歓声背に受け 熱い想い胸に秘め\n攻守に輝き 勝利へ導け",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-matsumoto-yuki-2026",
+  "teamId": "hawks",
+  "playerName": "松本 裕樹",
+  "number": "66",
+  "lyrics": "胸元突き刺す 速い球みせ\n決めろその球で 敵を討ち取れ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-nomura-isami-2026",
+  "teamId": "hawks",
+  "playerName": "野村 勇",
+  "number": "99",
+  "lyrics": "ここで見せろ力強く 敵を凌駕する一撃\n全速前進フルスピードで 勇ましく走れ",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "hawks-hasegawa-takenobu-2026",
+  "teamId": "hawks",
+  "playerName": "長谷川 威展",
+  "number": "120",
+  "lyrics": "気迫溢れる その球で\n行けよ威展 ひたむきに",
+  "audio": "/audio/hawks/",
+  "season": 2026,
+  "active": true
+}
+
+]

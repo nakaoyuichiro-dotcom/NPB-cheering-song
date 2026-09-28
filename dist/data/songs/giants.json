@@ -1,0 +1,272 @@
+[
+  {
+    "id": "giants-masuda-daiki-2026",
+    "teamId": "giants",
+    "playerName": "増田 大輝",
+    "number": "0",
+    "lyrics": "走れ走れよ ネクストベースへ\nホームまで駆け抜けろ 増田大輝 GO GO",
+    "audio": "/audio/giants/masuda-daiki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-yoshikawa-naoki-2026",
+    "teamId": "giants",
+    "playerName": "吉川 尚輝",
+    "number": "2",
+    "lyrics": "好守に巧打 結果を見せつけて\n輝く道を 駆け抜けろ尚輝",
+    "audio": "/audio/giants/yoshikawa-naoki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-kadowaki-makoto-2026",
+    "teamId": "giants",
+    "playerName": "門脇 誠",
+    "number": "5",
+    "lyrics": "華麗なプレーで 創れ新たな時代 信じた野球道は\n未来への架け橋 誠の決意 力の限り 貫け門脇",
+    "audio": "/audio/giants/kadowaki-makoto-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-sakamoto-hayato-2026",
+    "teamId": "giants",
+    "playerName": "坂本 勇人",
+    "number": "6",
+    "lyrics": "誰よりも強く勇ましく お前が立つその場所は\n熱気の渦が巻く 坂本 炎となれ",
+    "audio": "/audio/giants/sakamoto-hayato-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-maru-yoshihiro-2026",
+    "teamId": "giants",
+    "playerName": "丸 佳浩",
+    "number": "8",
+    "lyrics": "誰より強く さらなる高みへ\nこの大歓声が 君の味方だ さあ我らと行こう 丸佳浩",
+    "audio": "/audio/giants/maru-yoshihiro-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-matsumoto-go-2026",
+    "teamId": "giants",
+    "playerName": "松本 剛",
+    "number": "9",
+    "lyrics": "魂滾らせ 巧打で切り込め\n憧れのフィールドで 熱く剛く行く",
+    "audio": "/audio/giants/matsumoto-go-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-kai-takuya-2026",
+    "teamId": "giants",
+    "playerName": "甲斐 拓也",
+    "number": "10",
+    "lyrics": "要の矜持を胸に 放つ勝利の矢\n目に焼きつけよう 甲斐拓也を",
+    "audio": "/audio/giants/kai-takuya-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-hagio-masaya-2026",
+    "teamId": "giants",
+    "playerName": "萩尾 匡也",
+    "number": "12",
+    "lyrics": "煌めくセンス磨き たゆまぬ努力重ね\n輝け今 スマイル 行こうぜ萩尾匡也",
+    "audio": "/audio/giants/hagio-masaya-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-cabbage-trey-2026",
+    "teamId": "giants",
+    "playerName": "キャベッジ",
+    "number": "13",
+    "lyrics": "戦い抜く君は 迷いなくその先へ\n夢を貫く弓矢 今放てキャビー",
+    "audio": "/audio/giants/cabbage-trey-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-kobayashi-seiji-2026",
+    "teamId": "giants",
+    "playerName": "小林 誠司",
+    "number": "22",
+    "lyrics": "今魅せろ強肩を 扇の要\n夢バットに託し 戦え小林",
+    "audio": "/audio/giants/kobayashi-seiji-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-ohshiro-takumi-2026",
+    "teamId": "giants",
+    "playerName": "大城 卓三",
+    "number": "24",
+    "lyrics": "鋭いまなざし 満ちあふれる男気\n魅せろパワー フルスイング ぶち込め大城",
+    "audio": "/audio/giants/ohshiro-takumi-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-kishida-yukinori-2026",
+    "teamId": "giants",
+    "playerName": "岸田 行倫",
+    "number": "27",
+    "lyrics": "守り攻め進めよ 盾と剣構え\nさぁチームを笑顔に 導けよ岸田",
+    "audio": "/audio/giants/kishida-yukinori-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-urata-shunsuke-2026",
+    "teamId": "giants",
+    "playerName": "浦田 俊輔",
+    "number": "32",
+    "lyrics": "君が起こす その疾風が\n光り 嵐呼び込む 歓喜を照らす稲妻 ゆけ勝利への道を",
+    "audio": "/audio/giants/urata-shunsuke-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-izuguchi-yuta-2026",
+    "teamId": "giants",
+    "playerName": "泉口 友汰",
+    "number": "35",
+    "lyrics": "狙い定めた一打 左右に弾き返せ\n決めろ泉口 歓声を浴びながら",
+    "audio": "/audio/giants/izuguchi-yuta-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-nakayama-raito-2026",
+    "teamId": "giants",
+    "playerName": "中山 礼都",
+    "number": "40",
+    "lyrics": "行け中山 努力を重ねて\n我らの願い白球に乗せ 打て 礼都決めろ",
+    "audio": "/audio/giants/nakayama-raito-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-sasaki-shunsuke-2026",
+    "teamId": "giants",
+    "playerName": "佐々木 俊輔",
+    "number": "44",
+    "lyrics": "高みを目指しどこまでも 勝利に向かって走れ\n佐々木今だ打てよ 誇りを胸に",
+    "audio": "/audio/giants/sasaki-shunsuke-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-asano-shogo-2026",
+    "teamId": "giants",
+    "playerName": "浅野 翔吾",
+    "number": "51",
+    "lyrics": "熱く強く 歓喜の渦へ\nさあ今だ戦え さあ今だ翔け獅子奮迅 浅野 この熱き舞台で",
+    "audio": "/audio/giants/asano-shogo-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-sunagawa-richard-2026",
+    "teamId": "giants",
+    "playerName": "リチャード",
+    "number": "52",
+    "lyrics": "宿りし力 解き放て\n豪快フルパワー スタンド沸かす一打 無限の彼方へ 飛ばせリチャード",
+    "audio": "/audio/giants/sunagawa-richard-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-masuda-riku-2026",
+    "teamId": "giants",
+    "playerName": "増田 陸",
+    "number": "61",
+    "lyrics": "見せろ今 君の熱き想い\n不屈の闘志 超えろ今 君の架けたアーチ 未来へ振り抜け",
+    "audio": "/audio/giants/masuda-riku-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "giants-tanaka-masahiro-2026",
+    "teamId": "giants",
+    "playerName": "田中 将大",
+    "number": "11",
+    "lyrics": "伝説をこの場所で さぁ見せてくれ\n拳上げ夢の続き 描けあの空へ",
+    "audio": "/audio/giants/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "giants-yamasaki-iori-2026",
+    "teamId": "giants",
+    "playerName": "山﨑 伊織",
+    "number": "19",
+    "lyrics": "その手の白球で 勝利へ一歩ずつ\n共に掴むぞビクトリー 強気の勝負で",
+    "audio": "/audio/giants/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "giants-togo-shosei-2026",
+    "teamId": "giants",
+    "playerName": "戸郷 翔征",
+    "number": "20",
+    "lyrics": "魅せろ華麗なステージ しなる豪腕眩しく\n翔けそれ征け戸郷 明日を目指して",
+    "audio": "/audio/giants/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "giants-takemaru-kazuyuki-2026",
+    "teamId": "giants",
+    "playerName": "竹丸 和幸",
+    "number": "21",
+    "lyrics": "左腕をしならせて 投げ込め鮮やかに\n揺るがぬ想いで 星を掴め",
+    "audio": "/audio/giants/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "giants-akahoshi-yuji-2026",
+    "teamId": "giants",
+    "playerName": "赤星 優志",
+    "number": "31",
+    "lyrics": "赤い情熱 星を掴み取れ\n優れたセンスで攻めろ 志 高く",
+    "audio": "/audio/giants/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "giants-norimoto-takahiro-2026",
+    "teamId": "giants",
+    "playerName": "則本 昂大",
+    "number": "43",
+    "lyrics": "昂るその想い 右腕に込め\n大きな夢を描いて 強気見せ 頂へ",
+    "audio": "/audio/giants/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "giants-yokogawa-kai-2026",
+    "teamId": "giants",
+    "playerName": "横川 凱",
+    "number": "62",
+    "lyrics": "チームを信じて 大きく投げ込め\nダイナミックに敵を倒して 勝利の凱旋だ",
+    "audio": "/audio/giants/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "giants-inoue-haruto-2026",
+    "teamId": "giants",
+    "playerName": "井上 温大",
+    "number": "97",
+    "lyrics": "今日もチームを 勝ちに導け\n左腕に託す希望 井上温大",
+    "audio": "/audio/giants/",
+    "season": 2026,
+    "active": false
+  }
+]

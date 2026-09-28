@@ -1,0 +1,182 @@
+[
+  {
+    "id": "carp-yano-masaya-2026",
+    "teamId": "carp",
+    "playerName": "矢野 雅哉",
+    "number": "4",
+    "lyrics": "狙い決めた一打 勝利への矢を放て\n思い込めた打球 雅の道 切り拓け",
+    "audio": "/audio/carp/yano-masaya-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-kozono-kaito-2026",
+    "teamId": "carp",
+    "playerName": "小園 海斗",
+    "number": "5",
+    "lyrics": "新たな扉を こじ開けて\n世代はお前が担え ぶっちぎれ",
+    "audio": "/audio/carp/kozono-kaito-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-dohbayashi-shota-2026",
+    "teamId": "carp",
+    "playerName": "堂林 翔太",
+    "number": "7",
+    "lyrics": "光り輝く その道を\n翔けぬけて魅せろ 堂林SHOW TIME!",
+    "audio": "/audio/carp/dohbayashi-shota-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-akiyama-shogo-2026",
+    "teamId": "carp",
+    "playerName": "秋山 翔吾",
+    "number": "9",
+    "lyrics": "アキのチカラ見せろ吠えろ放て\n虹の尾ひく打球で 勲章掴むまで",
+    "audio": "/audio/carp/akiyama-shogo-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-sasaki-tai-2026",
+    "teamId": "carp",
+    "playerName": "佐々木 泰",
+    "number": "10",
+    "lyrics": "最高の舞台で 燦然と光る\n君は我らのステラ 大志を持ち挑め",
+    "audio": "/audio/carp/sasaki-tai-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-aizawa-tsubasa-2026",
+    "teamId": "carp",
+    "playerName": "會澤 翼",
+    "number": "27",
+    "lyrics": "いざ大空へ翔ばたけ 熱い想い乗せ\n勝利へ導く一打 決めろよ翼",
+    "audio": "/audio/carp/aizawa-tsubasa-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-sakakura-shogo-2026",
+    "teamId": "carp",
+    "playerName": "坂倉 将吾",
+    "number": "31",
+    "lyrics": "今日も会心の一撃 捉えた打球\n赤い声援背に受け 行こうぜ坂倉",
+    "audio": "/audio/carp/sakakura-shogo-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-ishihara-tomoki-2026",
+    "teamId": "carp",
+    "playerName": "石原 貴規",
+    "number": "32",
+    "lyrics": "戦う姿を 今日も魅せてくれ\n広島に優勝を 運べ石原",
+    "audio": "/audio/carp/ishihara-tomoki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-kikuchi-ryosuke-2026",
+    "teamId": "carp",
+    "playerName": "菊池 涼介",
+    "number": "33",
+    "lyrics": "光を追い越して メーター振りきり駆け抜けろ\n止まらないぜ 韋駄天菊池",
+    "audio": "/audio/carp/kikuchi-ryosuke-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-noma-takayoshi-2026",
+    "teamId": "carp",
+    "playerName": "野間 峻祥",
+    "number": "37",
+    "lyrics": "鋭い打球飛ばせ 自慢の俊足魅せろ\n赤い流星のように 走れ峻祥",
+    "audio": "/audio/carp/noma-takayoshi-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-suekane-shota-2026",
+    "teamId": "carp",
+    "playerName": "末包 昇大",
+    "number": "52",
+    "lyrics": "沸かせスタンド ジャンボな一打\nペナントの遥か先へ ゆけ末包",
+    "audio": "/audio/carp/suekane-shota-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-omori-minoru-2026",
+    "teamId": "carp",
+    "playerName": "大盛 穂",
+    "number": "59",
+    "lyrics": "志を繋げ 約束の頂点へと\n輝く果敢な姿 見せろよ大盛",
+    "audio": "/audio/carp/omori-minoru-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-tamura-shunsuke-2026",
+    "teamId": "carp",
+    "playerName": "田村 俊介",
+    "number": "60",
+    "lyrics": "突き進め 我らを栄光へと\n導く男の名は そう田村俊介",
+    "audio": "/audio/carp/tamura-shunsuke-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-fabian-sandro-2026",
+    "teamId": "carp",
+    "playerName": "ファビアン",
+    "number": "61",
+    "lyrics": "俺らと夢を 共に叶えよう サンドロ・ファビアン\nLlevenos a la victoria",
+    "audio": "/audio/carp/fabian-sandro-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-maekawa-seita-2026",
+    "teamId": "carp",
+    "playerName": "前川 誠太",
+    "number": "93",
+    "lyrics": "未来へ翔ばたけ お前が今、切り裂く道\n未知拓け今ここに この思いを乗せて",
+    "audio": "/audio/carp/maekawa-seita-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-montero-elehuris-2026",
+    "teamId": "carp",
+    "playerName": "モンテロ",
+    "number": "95",
+    "lyrics": "Fight モンティ この場所で\nLet’s go モンティ 夢をのせて",
+    "audio": "/audio/carp/montero-elehuris-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-nakamura-shosei-2026",
+    "teamId": "carp",
+    "playerName": "中村 奨成",
+    "number": "96",
+    "lyrics": "赤い稲妻を 轟かせ\n広島揺るがすアーチ 華麗に描け",
+    "audio": "/audio/carp/nakamura-shosei-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "carp-futamata-shoichi-2026",
+    "teamId": "carp",
+    "playerName": "二俣 翔一",
+    "number": "99",
+    "lyrics": "夢の力を信じて その心で\n行くぜ翔一 新たな境地へ",
+    "audio": "/audio/carp/futamata-shoichi-2026.mp3",
+    "season": 2026,
+    "active": true
+  }
+]

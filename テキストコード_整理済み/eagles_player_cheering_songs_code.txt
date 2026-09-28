@@ -1,0 +1,200 @@
+{
+  "id": "eagles-kobukata-hiroto-2026",
+  "teamId": "eagles",
+  "playerName": "小深田 大翔",
+  "number": "0",
+  "lyrics": "歓喜のスタンドへ 拳突き上げ\n我らとともに行くぞ 勝利の道へ\n小深田 小深田 オー小深田\nスピード上げて走れ グラウンド駆け抜けろ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-muneyama-rui-2026",
+  "teamId": "eagles",
+  "playerName": "宗 山塁",
+  "number": "1",
+  "lyrics": "紡ぐ思い背に いま理想の旅路を行く\n強く光輝く 未来へ駆け上がれ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-ota-hikaru-2026",
+  "teamId": "eagles",
+  "playerName": "太田 光",
+  "number": "2",
+  "lyrics": "果てなく続く 光の道\n燃えさかる闘志 今ぶつけろ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-asamura-hideto-2026",
+  "teamId": "eagles",
+  "playerName": "浅村 栄斗",
+  "number": "3",
+  "lyrics": "燃え上がれ ここで燃え上がれ\n浅村打て 浅村打て 叩き込め",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-murabayashi-itsuki-2026",
+  "teamId": "eagles",
+  "playerName": "村林 一輝",
+  "number": "6",
+  "lyrics": "冴える一振りと 華麗なる守備は\n輝く君の軌跡 終わりなき道",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-suzuki-daichi-2026",
+  "teamId": "eagles",
+  "playerName": "鈴木 大地",
+  "number": "7",
+  "lyrics": "大地 勝利のために\n熱い気持ち込めて東北の夢を\n背負い戦うヒーロー",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-tatsumi-ryosuke-2026",
+  "teamId": "eagles",
+  "playerName": "辰己 涼介",
+  "number": "8",
+  "lyrics": "放つ光は 頂へ続く\n限りない夢を 叶えるんだ 辰己涼介",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-voit-luke-2026",
+  "teamId": "eagles",
+  "playerName": "ボイト",
+  "number": "9",
+  "lyrics": "レッツゴー ホームラン ボイト ファイト\nゴー ボイト カモン ホームラン ボイト さあいこうボイト",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-kurokawa-fumiya-2026",
+  "teamId": "eagles",
+  "playerName": "黒川 史陽",
+  "number": "24",
+  "lyrics": "大空に 響け君の一打\n黒川! 史陽! ともに戦おう",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-tanaka-kazuki-2026",
+  "teamId": "eagles",
+  "playerName": "田中 和基",
+  "number": "25",
+  "lyrics": "ラララ ラララ ラララ ラララーラ\nスピードを上げて 突っ走れ 強く 鋭く\n敵を突け さあ行け和基 希望の明日へ向かって",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-ito-hikaru-2026",
+  "teamId": "eagles",
+  "playerName": "伊藤 光",
+  "number": "27",
+  "lyrics": "歴史を刻む 頼れる背中\n眼光鋭く 仲間を守れ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-nakashima-daisuke-2026",
+  "teamId": "eagles",
+  "playerName": "中島 大輔",
+  "number": "32",
+  "lyrics": "振り抜け鋭く 気合いを込めて\n飛ばせ空高く 中島大輔",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-watanabe-yoshiaki-2026",
+  "teamId": "eagles",
+  "playerName": "渡邊 佳明",
+  "number": "35",
+  "lyrics": "鋭く打て 佳明 遠くへかっ飛ばせ\n輝け今 佳明 努力に希望あれ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-sato-naoki-2026",
+  "teamId": "eagles",
+  "playerName": "佐藤 直樹",
+  "number": "38",
+  "lyrics": "涙と汗で 夢を追いかけ\n光を放て あの空へ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-ito-yukiya-2026",
+  "teamId": "eagles",
+  "playerName": "伊藤 裕季也",
+  "number": "39",
+  "lyrics": "瞳の闘志と 胸に宿す魂\n打て! 裕季也! 飛ばせ彼方へ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-mutoh-atsuki-2026",
+  "teamId": "eagles",
+  "playerName": "武藤 敦貴",
+  "number": "50",
+  "lyrics": "勝利の道へ 我らを誘え\n鋼鉄の脚でフィールド 駆け抜ける風になれ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-ogo-yuya-2026",
+  "teamId": "eagles",
+  "playerName": "小郷 裕哉",
+  "number": "51",
+  "lyrics": "夢を描け 栄光掴むとき\n今だ決めろ Oh! GO! 立ち向かえ",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-yasuda-yuma-2026",
+  "teamId": "eagles",
+  "playerName": "YG安田",
+  "number": "55",
+  "lyrics": "一振りで威名が 轟き渡る\n悠遠と続く 我が道を行け",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-horiuchi-kengo-2026",
+  "teamId": "eagles",
+  "playerName": "堀内 謙伍",
+  "number": "65",
+  "lyrics": "ホームを守る男の 雄々しき姿\n己の信じる道 征けよ堀内",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "eagles-ishihara-tsuyoshi-2026",
+  "teamId": "eagles",
+  "playerName": "石原 彪",
+  "number": "70",
+  "lyrics": "みなぎるパワー込め 豪弾翔ばせ\n我ら導く英雄 石原彪",
+  "audio": "/audio/eagles/",
+  "season": 2026,
+  "active": true
+},

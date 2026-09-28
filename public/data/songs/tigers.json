@@ -1,0 +1,172 @@
+[
+  {
+    "id": "tigers-kinami-seiya-2026",
+    "teamId": "tigers",
+    "playerName": "木浪 聖也",
+    "number": "0",
+    "lyrics": "熱き心 乗せたスイング\n行くぞ 木浪 勝利目指せ",
+    "audio": "/audio/tigers/kinami-seiya-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-morishita-shota-2026",
+    "teamId": "tigers",
+    "playerName": "森下 翔太",
+    "number": "1",
+    "lyrics": "夢つかめ 豪快なパワー\n渾身のフルスイング 翔けろ 森下",
+    "audio": "/audio/tigers/morishita-shota-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-umeno-ryutaro-2026",
+    "teamId": "tigers",
+    "playerName": "梅野 隆太郎",
+    "number": "2",
+    "lyrics": "気迫のスイング 燃えろよ梅野\nどでかいアーチ 勝利への一撃",
+    "audio": "/audio/tigers/umeno-ryutaro-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-oyama-yusuke-2026",
+    "teamId": "tigers",
+    "playerName": "大山 悠輔",
+    "number": "3",
+    "lyrics": "悠然と振り構えた バットに我らの夢を乗せて\nスタンドへはじき返せ 栄光つかむその日まで\nさあここで見せてくれ さあ主砲の一打を\n勝利に導け 我らの大山",
+    "audio": "/audio/tigers/oyama-yusuke-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-kumagai-takahiro-2026",
+    "teamId": "tigers",
+    "playerName": "熊谷 敬宥",
+    "number": "4",
+    "lyrics": "全力プレーで掴みとれ 疾風のごとく\n魅せろ熊谷",
+    "audio": "/audio/tigers/kumagai-takahiro-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-chikamoto-koji-2026",
+    "teamId": "tigers",
+    "playerName": "近本 光司",
+    "number": "5",
+    "lyrics": "切り拓け 勝利への道 打て\nグラウンド駆けろ 燃えろ 近本",
+    "audio": "/audio/tigers/chikamoto-koji-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-nakano-takumu-2026",
+    "teamId": "tigers",
+    "playerName": "中野 拓夢",
+    "number": "7",
+    "lyrics": "強い気持ちで 勝利を目指せ中野\nさあ夢を拓け 打て走れ中野",
+    "audio": "/audio/tigers/nakano-takumu-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-sato-teruaki-2026",
+    "teamId": "tigers",
+    "playerName": "佐藤 輝明",
+    "number": "8",
+    "lyrics": "栄えある猛虎の歴史に 刻め新たな輝跡を\nこだまするこの声を背に受け 突き進め さあ行こう\n勝利に向かって 振り抜け 輝け 打て 輝明",
+    "audio": "/audio/tigers/sato-teruaki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-sakamoto-seishiro-2026",
+    "teamId": "tigers",
+    "playerName": "坂本 誠志郎",
+    "number": "12",
+    "lyrics": "狙いを定め 強気で攻めろ\nお前の時代を築け さぁぶちかませ",
+    "audio": "/audio/tigers/sakamoto-seishiro-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-devanney-cam-2026",
+    "teamId": "tigers",
+    "playerName": "キャム・ディベイニー",
+    "number": "24",
+    "lyrics": "La La La・・・\nレッツゴー ディベイニ― カモン ディベイニ―",
+    "audio": "/audio/tigers/devanney-cam-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-itohara-kento-2026",
+    "teamId": "tigers",
+    "playerName": "糸原 健斗",
+    "number": "33",
+    "lyrics": "誰にも劣らぬ ハートの強い男\n我武者羅に走り抜け 果敢な戦士\n凛々しく泥臭く 斬り込め全力で\n気力込めて 今ここで 燃えさかれ",
+    "audio": "/audio/tigers/itohara-kento-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-obata-ryuhei-2026",
+    "teamId": "tigers",
+    "playerName": "小幡 竜平",
+    "number": "38",
+    "lyrics": "光る技を 今こそ見せろ\n狙い定めて 小幡 フィールド駆けろ",
+    "audio": "/audio/tigers/obata-ryuhei-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-shimada-kairi-2026",
+    "teamId": "tigers",
+    "playerName": "島田 海吏",
+    "number": "53",
+    "lyrics": "さあ行け快足で チャンスをつかめ\n島田海吏 そのスピードで 勝利へ駆けろ",
+    "audio": "/audio/tigers/shimada-kairi-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-maegawa-ukyo-2026",
+    "teamId": "tigers",
+    "playerName": "前川 右京",
+    "number": "58",
+    "lyrics": "勝利を導く 気迫の一撃\n今この瞬間 振り抜け右京",
+    "audio": "/audio/tigers/maegawa-ukyo-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-onodera-dan-2026",
+    "teamId": "tigers",
+    "playerName": "小野寺 暖",
+    "number": "60",
+    "lyrics": "気合いと度胸 努力の証\n情熱を燃やして 夢を勝ち取れ",
+    "audio": "/audio/tigers/onodera-dan-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-ueda-kai-2026",
+    "teamId": "tigers",
+    "playerName": "植田 海",
+    "number": "62",
+    "lyrics": "走れ植田 海足唸らせ\n歓喜の渦が巻く ホームベース目指して",
+    "audio": "/audio/tigers/ueda-kai-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "tigers-takadera-nozomu-2026",
+    "teamId": "tigers",
+    "playerName": "髙寺 望夢",
+    "number": "67",
+    "lyrics": "滾る闘志を この瞬間に\n望む一撃 レッツゴー！髙寺",
+    "audio": "/audio/tigers/takadera-nozomu-2026.mp3",
+    "season": 2026,
+    "active": true
+  }
+]

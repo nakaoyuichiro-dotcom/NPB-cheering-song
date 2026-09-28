@@ -1,0 +1,233 @@
+[
+{
+  "id": "fighters-martinez-ariel-2026",
+  "teamId": "fighters",
+  "playerName": "マルティネス",
+  "number": "2",
+  "lyrics": "渾身の力で 敵を蹴散らせ\n豪快なアーチを スタンドへぶち込め",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-gunji-yuya-2026",
+  "teamId": "fighters",
+  "playerName": "郡司 裕也",
+  "number": "3",
+  "lyrics": "虹を描くアーチ 気高きその構えで\nララララララ郡司 打て打てそれ行け",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-kamikawabata-daigo-2026",
+  "teamId": "fighters",
+  "playerName": "上川畑 大悟",
+  "number": "4",
+  "lyrics": "晴れたる吉備の国から 心熱く踏み出し\nダイヤモンドのその先 さあ行こうぜ大悟!",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-nomura-yuki-2026",
+  "teamId": "fighters",
+  "playerName": "野村 佑希",
+  "number": "5",
+  "lyrics": "行け希望の花 咲かすその日まで\n飛ばせ栄光の座へと 導くホームラン",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-castro-rudy-2026",
+  "teamId": "fighters",
+  "playerName": "カストロ",
+  "number": "6",
+  "lyrics": "溢れる力を出し その名を刻め\n希望の道を拓け Go my way! ルディ",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-nishikawa-haruki-2026",
+  "teamId": "fighters",
+  "playerName": "西川 遥輝",
+  "number": "7",
+  "lyrics": "今だ西川 遥かに続いた道を\n走れ西川 輝くその日まで",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-asama-daiki-2026",
+  "teamId": "fighters",
+  "playerName": "淺間 大基",
+  "number": "8",
+  "lyrics": "シャープに決めるバッティング 風斬るスピードと\n敵を仕留める強肩で 勝ちへと繋げ",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-nakashima-takuya-2026",
+  "teamId": "fighters",
+  "playerName": "中島 卓也",
+  "number": "9",
+  "lyrics": "踏み出した姿に 最高の期待込めて\n今、頂目指し進め 挑み勝て中島",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-shimizu-yushi-2026",
+  "teamId": "fighters",
+  "playerName": "清水 優心",
+  "number": "10",
+  "lyrics": "燃え盛れ清水 いざ打ち勝て\n冴え渡るリード 未来へ導け",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-yazawa-kota-2026",
+  "teamId": "fighters",
+  "playerName": "矢澤 宏太",
+  "number": "12",
+  "lyrics": "飛び切りの夢へ 魂に身をまかせ\n心射抜くそのプレイ 決めるぞ矢澤",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-ito-hiromi-2026",
+  "teamId": "fighters",
+  "playerName": "伊藤 大海",
+  "number": "17",
+  "lyrics": "駆け抜けろ 緑の海原を GO!\n大海羽ばたけ 栄光の空へ",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-yamazaki-sachiya-2026",
+  "teamId": "fighters",
+  "playerName": "山﨑 福也",
+  "number": "18",
+  "lyrics": "北の大地で挑み 夢見る歓喜の日へ\n投打で輝きを放て 凛々しい姿で",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-kiyomiya-kotaro-2026",
+  "teamId": "fighters",
+  "playerName": "清宮 幸太郎",
+  "number": "21",
+  "lyrics": "描き出す 理想は久遠高く\n鍛えし腕で 清宮打て",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-mizuno-tatsuki-2026",
+  "teamId": "fighters",
+  "playerName": "水野 達稀",
+  "number": "43",
+  "lyrics": "彼方煌めく栄光を 讃えしその日まで\n果てなき夢の旅路 遥かに突き進め",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-isobata-ryota-2026",
+  "teamId": "fighters",
+  "playerName": "五十幡 亮汰",
+  "number": "50",
+  "lyrics": "この瞬間を刻む 魅せろスプリンター\n五十幡駆け抜けるぜ 煌めく時代へ",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-mizutani-shun-2026",
+  "teamId": "fighters",
+  "playerName": "水谷 瞬",
+  "number": "53",
+  "lyrics": "G0! G0! ジェッシー 両手をあげて\nG0! G0! ジェッシー 飛ばせホームラン",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-yamagata-shu-2026",
+  "teamId": "fighters",
+  "playerName": "山縣 秀",
+  "number": "54",
+  "lyrics": "フィールドで舞う 華麗な旋律\n響け未来へと 行けガタシュウ",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-hosokawa-ryohei-2026",
+  "teamId": "fighters",
+  "playerName": "細川 凌平",
+  "number": "56",
+  "lyrics": "さあ行くぞ かっ飛ばせ\nフィールド駆けろ 煌びやかな栄冠を\n掴むぞ凌平",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-narama-taiki-2026",
+  "teamId": "fighters",
+  "playerName": "奈良 間大己",
+  "number": "58",
+  "lyrics": "走塁・打撃・守備 全て兼ね備えた\n頼れる仕事人 いざ進むぞ奈良間",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-imagawa-yuma-2026",
+  "teamId": "fighters",
+  "playerName": "今川 優馬",
+  "number": "61",
+  "lyrics": "それ行け今川 ガッツプレー\n怒涛の如く 打つぞ今川",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-tamiya-yua-2026",
+  "teamId": "fighters",
+  "playerName": "田宮 裕涼",
+  "number": "64",
+  "lyrics": "裕涼のこの一打 広角に打ち分けろ\n想いをその胸に 裕! 涼! 打て!",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-mannami-chusei-2026",
+  "teamId": "fighters",
+  "playerName": "万波 中正",
+  "number": "66",
+  "lyrics": "万世に続く 大きな波を起こせ\n澄み渡る空に高く 輝け中正",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "fighters-reyes-franmil-2026",
+  "teamId": "fighters",
+  "playerName": "レイエス",
+  "number": "99",
+  "lyrics": "期待背負いさぁ立ち上がれ オー!\nレイエス! 内に秘めた大きな蕾 この地で今花咲け",
+  "audio": "/audio/fighters/",
+  "season": 2026,
+  "active": true
+}
+
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "baystars-hayashi-takuma-2026",
+    "teamId": "baystars",
+    "playerName": "林 琢真",
+    "number": "00",
+    "lyrics": "シャープに打ち返し 勝利へ導け\n強く速く風のように 走り抜け琢真",
+    "audio": "/audio/baystars/hayashi-takuma-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-maki-shugo-2026",
+    "teamId": "baystars",
+    "playerName": "牧 秀悟",
+    "number": "2",
+    "lyrics": "届け 我らの声 鍛えた\nそのパワー かっとばせ 勝利を さぁ目指せ ホームラン",
+    "audio": "/audio/baystars/maki-shugo-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-watarai-ryuki-2026",
+    "teamId": "baystars",
+    "playerName": "度会 隆輝",
+    "number": "4",
+    "lyrics": "煌めく この空に 夢の軌道\n描け 今 この歓声 打てよ 勝利のために",
+    "audio": "/audio/baystars/watarai-ryuki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-matsuo-shion-2026",
+    "teamId": "baystars",
+    "playerName": "松尾 汐恩",
+    "number": "5",
+    "lyrics": "覚悟を決めて振りぬけ 打球が風を切り裂き\n夢運ぶ 打てよ勝利への一打",
+    "audio": "/audio/baystars/matsuo-shion-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-mori-keito-2026",
+    "teamId": "baystars",
+    "playerName": "森 敬斗",
+    "number": "6",
+    "lyrics": "スタジアムのヒーロー 輝く星となれ\n歓声背に受け ダイヤモンド駆け抜けろ",
+    "audio": "/audio/baystars/mori-keito-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-sano-keita-2026",
+    "teamId": "baystars",
+    "playerName": "佐野 恵太",
+    "number": "7",
+    "lyrics": "蒼き戦士の闘志 果敢に突き進め\nハマの空に弧を描け 進め Shiny Road",
+    "audio": "/audio/baystars/sano-keita-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-kamizato-kazuki-2026",
+    "teamId": "baystars",
+    "playerName": "神里 和毅",
+    "number": "8",
+    "lyrics": "琉球の波に乗って 潮風を背に受け\n冴えわたる神業 オーーー島人の星 イーヤーサーサー！神里！",
+    "audio": "/audio/baystars/kamizato-kazuki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-kyoda-yota-2026",
+    "teamId": "baystars",
+    "playerName": "京田 陽太",
+    "number": "9",
+    "lyrics": "さあ 走り出せ\n浜風背に受け 秘めた想いつないで 輝け 京田",
+    "audio": "/audio/baystars/kyoda-yota-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-tobashira-yasutaka-2026",
+    "teamId": "baystars",
+    "playerName": "戸柱 恭孝",
+    "number": "10",
+    "lyrics": "奮い立て 横浜の大黒柱よ\nさあ打て飛ばせ勝利への 扉を開け",
+    "audio": "/audio/baystars/tobashira-yasutaka-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-tsutsugoh-yoshitomo-2026",
+    "teamId": "baystars",
+    "playerName": "筒香 嘉智",
+    "number": "25",
+    "lyrics": "横浜の空高く ホームランかっ飛ばせ 筒香ー！ さあ 打て筒香\n飛ばせ 空の彼方 横浜に輝く 大砲 かっ飛ばせ ホームラン GO！GO！筒香！",
+    "audio": "/audio/baystars/tsutsugoh-yoshitomo-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-mimori-masaki-2026",
+    "teamId": "baystars",
+    "playerName": "三森 大貴",
+    "number": "26",
+    "lyrics": "誇らしきひと振りは 努力の証\n揺るがぬ志で 今突き進め",
+    "audio": "/audio/baystars/mimori-masaki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-shibata-tatsuhiro-2026",
+    "teamId": "baystars",
+    "playerName": "柴田 竜拓",
+    "number": "31",
+    "lyrics": "狙い澄ました ミートと 巧みな\nグラブ捌きは 努力という かけらの 結晶の 証だ",
+    "audio": "/audio/baystars/shibata-tatsuhiro-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-ishikami-taiki-2026",
+    "teamId": "baystars",
+    "playerName": "石上 泰輝",
+    "number": "44",
+    "lyrics": "今その一打に 勝ちへの想い込め\n燃えさかれ石上 この港で",
+    "audio": "/audio/baystars/ishikami-taiki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-miyazaki-toshiro-2026",
+    "teamId": "baystars",
+    "playerName": "宮﨑 敏郎",
+    "number": "51",
+    "lyrics": "さあ振り抜け宮﨑 気迫あふれるパワーで\n夢描け鮮やかに 空高く",
+    "audio": "/audio/baystars/miyazaki-toshiro-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-kajiwara-kouki-2026",
+    "teamId": "baystars",
+    "playerName": "梶原 昂希",
+    "number": "58",
+    "lyrics": "颯爽と駆けろ 蒼く湧く横浜の\n突き進め勝利への道 星をつかめ",
+    "audio": "/audio/baystars/kajiwara-kouki-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-ebina-tatsuo-2026",
+    "teamId": "baystars",
+    "playerName": "蝦名 達夫",
+    "number": "61",
+    "lyrics": "スタンドの期待を背に 打て永遠の星へ\n確信の一打を 魅せてくれ",
+    "audio": "/audio/baystars/ebina-tatsuo-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-sekine-taiki-2026",
+    "teamId": "baystars",
+    "playerName": "関根 大気",
+    "number": "63",
+    "lyrics": "うちに秘めた想い 一打に懸けろ\n走り出す その先には 大気の夢がある",
+    "audio": "/audio/baystars/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "baystars-encarnacion-jerar-2026",
+    "teamId": "baystars",
+    "playerName": "J.エンカーナシオン",
+    "number": "69",
+    "lyrics": "目の前にいる敵を 一撃で蹴散らせ 飛ばせ遥か彼方\n見せつけろヘラル ジェリー ジェリー ジェリー レッツゴー",
+    "audio": "/audio/baystars/",
+    "season": 2026,
+    "active": false
+  },
+  {
+    "id": "baystars-hummel-cooper-2026",
+    "teamId": "baystars",
+    "playerName": "C.ヒュンメル",
+    "number": "99",
+    "lyrics": "打て打て打て打て 一発クーパー\n打て打て打て打て 勝利を目指せ GO！GO！クーパー！",
+    "audio": "/audio/baystars/hummel-cooper-2026.mp3",
+    "season": 2026,
+    "active": true
+  },
+  {
+    "id": "baystars-ryouji-aikawa-2026",
+    "teamId": "baystars",
+    "playerName": "相川 亮二",
+    "number": "81",
+    "lyrics": "大志を抱く男 内に秘める魂を\n今このグランドに いざ解き放て",
+    "audio": "/audio/baystars/ryouji-aikawa-2026.mp3",
+    "season": 2026,
+    "active": true
+  }
+]

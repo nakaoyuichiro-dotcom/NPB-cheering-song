@@ -1,0 +1,190 @@
+{
+  "id": "marines-takabe-akito-2026",
+  "teamId": "marines",
+  "playerName": "髙部 瑛斗",
+  "number": "0",
+  "lyrics": "Go Let’s go ララ髙部 Go\nLet’s go ララ髙部\nGo Let’s go ララ髙部 ラララ…",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-fujiwara-kyota-2026",
+  "teamId": "marines",
+  "playerName": "藤原 恭大",
+  "number": "1",
+  "lyrics": "ラララ…藤原恭大 ラララ…さぁ今だ振り抜け\nラララ…藤原恭大 勝利の一撃を",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-kakunaka-katsuya-2026",
+  "teamId": "marines",
+  "playerName": "角中 勝也",
+  "number": "3",
+  "lyrics": "ララララ角中 ララララ角中\nさあ戦え 角中 勝利へ導け 栄光の時を目指して",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-tomosugi-atsuki-2026",
+  "teamId": "marines",
+  "playerName": "友杉 篤輝",
+  "number": "4",
+  "lyrics": "オイ!\n友杉 ラララ…",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-yasuda-hisanori-2026",
+  "teamId": "marines",
+  "playerName": "安田 尚憲",
+  "number": "5",
+  "lyrics": "わっしょいわっしょい! わっしょいわっしょい!\nわっしょいわっしょい! そーれ!",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-nishikawa-misho-2026",
+  "teamId": "marines",
+  "playerName": "西川 史礁",
+  "number": "6",
+  "lyrics": "さあゆけ西川史礁オーオオー\n気迫見せろ この声背に\n今立ち向かえ 闘え西川史礁オーオオー 打ち放たれたその一打は\nここに勝利呼び込む",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-fujioka-yudai-2026",
+  "teamId": "marines",
+  "playerName": "藤岡 裕大",
+  "number": "7",
+  "lyrics": "ラララ… 行け\n藤岡裕大 夢見たその先へ\n勝利を呼ぶ一打 今放て",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-nakamura-shogo-2026",
+  "teamId": "marines",
+  "playerName": "中村 奨吾",
+  "number": "8",
+  "lyrics": "奨吾 奨吾 中村奨吾\n魂込めた一打を魅せろオオ 奨吾 奨吾\n中村奨吾 熱く燃えろよ 奨吾",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-polanco-gregory-2026",
+  "teamId": "marines",
+  "playerName": "ポランコ",
+  "number": "22",
+  "lyrics": "オイ! オイ! オイ! エル・コーヒー エル・コーヒー エル・コーヒー\nホームラン エル・コーヒー ホームラン",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-ishikawa-shingo-2026",
+  "teamId": "marines",
+  "playerName": "石川 慎吾",
+  "number": "23",
+  "lyrics": "慎吾!慎吾!慎吾!慎吾!\n慎吾!慎吾!慎吾!慎吾! 慎吾!慎吾!慎吾!慎吾!\nオイ! オイ! 慎吾!ラララ 慎吾 慎吾\nラララララ オオオ… ラララ 慎吾 慎吾 ラララララ オオオ…",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-oka-hiromi-2026",
+  "teamId": "marines",
+  "playerName": "岡 大海",
+  "number": "25",
+  "lyrics": "オイ! 岡大海! 勝利を掴め",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-tamura-tatsuhiro-2026",
+  "teamId": "marines",
+  "playerName": "田村 龍弘",
+  "number": "27",
+  "lyrics": "ラララ…魅せろ男田村\nラララ…燃えろ男田村",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-sato-toshiya-2026",
+  "teamId": "marines",
+  "playerName": "佐藤 都志也",
+  "number": "32",
+  "lyrics": "燃えろ打てよ都志也\nラララ… 気持ちを込めて",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-yamaguchi-koki-2026",
+  "teamId": "marines",
+  "playerName": "山口 航輝",
+  "number": "51",
+  "lyrics": "ラララ…山口 オオオ… ラララ…山口 オオオ…\nやまぐっち! やまぐっち! ラララ… やまぐっち!\nやまぐっち! ラララ…",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-ogawa-ryusei-2026",
+  "teamId": "marines",
+  "playerName": "小川 龍成",
+  "number": "57",
+  "lyrics": "小川龍成 小川龍成 小川龍成\nラララ… 小川龍成 小川龍成 小川龍成 ラララ行こうぜ",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-yamamoto-daito-2026",
+  "teamId": "marines",
+  "playerName": "山本 大斗",
+  "number": "61",
+  "lyrics": "オー山本 オー山本 オオオ… オー山本\nオー山本 オオオ… オオ 山本 オオ ホームラン",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-terachi-ryusei-2026",
+  "teamId": "marines",
+  "playerName": "寺地 隆成",
+  "number": "65",
+  "lyrics": "寺地隆成 歩み続けろ 寺地隆成\n俺たちと 寺地隆成 夢をのせて\n千葉を勝利へ 寺地隆成 ラララ… 寺地隆成 ラララ… 寺地隆成 ラララ… ラララ…",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-chatani-kenta-2026",
+  "teamId": "marines",
+  "playerName": "茶谷 健太",
+  "number": "67",
+  "lyrics": "オイ! オイ!\nぶちかませ茶谷",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
+{
+  "id": "marines-neftali-soto-2026",
+  "teamId": "marines",
+  "playerName": "ソト",
+  "number": "99",
+  "lyrics": "バモネフタリ バモネフタリ\nオオオ…ソ! ト! ラララ… ソ!ト!",
+  "audio": "/audio/marines/",
+  "season": 2026,
+  "active": true
+},
